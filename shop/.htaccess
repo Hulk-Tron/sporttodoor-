@@ -1,0 +1,4 @@
+#AuthType Basic
+#AuthName "s2d"
+#AuthUserFile "/home/sporttodoor/.htpasswds/public_html/shop/passwd"
+#require valid-user

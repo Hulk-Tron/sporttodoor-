@@ -1,0 +1,854 @@
+2016-03-14 4:44:56 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin/view/template): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-14 4:44:56 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin/view): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-14 4:44:56 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-14 4:46:31 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 61
+2016-03-14 4:46:31 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 63
+2016-03-14 4:47:59 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 125
+2016-03-14 4:47:59 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 127
+2016-03-14 5:05:58 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 125
+2016-03-14 5:05:58 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 127
+2016-03-14 5:06:57 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 125
+2016-03-14 5:06:57 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 127
+2016-03-14 5:12:01 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 125
+2016-03-14 5:12:01 - PHP Notice:  Undefined variable: entry_address_en in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\setting\setting.tpl on line 127
+2016-03-14 5:16:53 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin/controller): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-14 5:16:53 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-14 19:15:37 - PHP Notice:  Undefined variable: address in E:\xampp\htdocs\eurostore\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 12
+2016-03-14 19:16:36 - PHP Notice:  Undefined variable: address in E:\xampp\htdocs\eurostore\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 12
+2016-03-14 19:17:17 - PHP Notice:  Undefined variable: address in E:\xampp\htdocs\eurostore\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 12
+2016-03-14 19:18:41 - PHP Notice:  Undefined variable: address in E:\xampp\htdocs\eurostore\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 12
+2016-03-14 19:25:41 - PHP Notice:  Undefined variable: address in E:\xampp\htdocs\eurostore\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 12
+2016-03-14 19:26:26 - PHP Notice:  Undefined variable: address in E:\xampp\htdocs\eurostore\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 12
+2016-03-14 19:30:38 - PHP Notice:  Undefined variable: address in E:\xampp\htdocs\eurostore\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 12
+2016-03-14 19:32:19 - PHP Notice:  Undefined variable: address in E:\xampp\htdocs\eurostore\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 12
+2016-03-17 0:08:21 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin/view/template): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-17 0:08:21 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin/view): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-17 0:08:22 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-17 1:07:34 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 422
+2016-03-17 1:07:34 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 431
+2016-03-17 1:07:34 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 91
+2016-03-17 1:25:58 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 422
+2016-03-17 1:25:58 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 431
+2016-03-17 1:25:58 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 91
+2016-03-17 1:26:06 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 422
+2016-03-17 1:26:06 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 431
+2016-03-17 1:26:06 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 91
+2016-03-17 1:28:52 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 422
+2016-03-17 1:28:52 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 431
+2016-03-17 1:28:52 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 89
+2016-03-17 1:28:52 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 96
+2016-03-17 1:29:12 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 422
+2016-03-17 1:29:12 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 431
+2016-03-17 1:29:12 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 89
+2016-03-17 1:29:12 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 96
+2016-03-17 1:47:28 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 422
+2016-03-17 1:47:28 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 431
+2016-03-17 1:47:28 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 89
+2016-03-17 1:47:28 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 96
+2016-03-17 1:47:48 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin/view/template): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-17 1:47:48 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin/view): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-17 1:47:48 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-17 1:56:29 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin/model): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-17 1:56:29 - PHP Warning:  rmdir(E:/xampp/htdocs/eurostore/system/storage/modification/admin): Directory not empty in E:\xampp\htdocs\eurostore\admin\controller\extension\modification.php on line 105
+2016-03-17 1:56:32 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 422
+2016-03-17 1:56:32 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 431
+2016-03-17 1:56:32 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 91
+2016-03-17 2:01:14 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 422
+2016-03-17 2:01:14 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\admin\controller\catalog\information.php on line 431
+2016-03-17 2:01:14 - PHP Notice:  Undefined variable: placeholder in E:\xampp\htdocs\eurostore\system\storage\modification\admin\view\template\catalog\information_form.tpl on line 91
+2016-04-14 14:59:14 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\eurostore\system\storage\modification\catalog\controller\common\footer.php on line 67
+2016-04-14 14:59:14 - PHP Notice:  Undefined index: title in E:\xampp\htdocs\eurostore\system\storage\modification\catalog\controller\common\footer.php on line 69
+2016-04-14 14:59:14 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\eurostore\system\storage\modification\catalog\controller\common\footer.php on line 71
+2016-05-06 13:05:36 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 67
+2016-05-06 13:05:36 - PHP Notice:  Undefined index: title in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 69
+2016-05-06 13:05:36 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 71
+2016-05-06 13:06:03 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 67
+2016-05-06 13:06:03 - PHP Notice:  Undefined index: title in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 69
+2016-05-06 13:06:03 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 71
+2016-05-06 13:07:34 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 67
+2016-05-06 13:07:34 - PHP Notice:  Undefined index: title in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 69
+2016-05-06 13:07:34 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 71
+2016-05-06 13:13:14 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 67
+2016-05-06 13:13:14 - PHP Notice:  Undefined index: title in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 69
+2016-05-06 13:13:14 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 71
+2016-05-06 13:28:36 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 67
+2016-05-06 13:28:36 - PHP Notice:  Undefined index: title in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 69
+2016-05-06 13:28:36 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\system\storage\modification\catalog\controller\common\footer.php on line 71
+2016-05-06 21:48:17 - PHP Notice:  Undefined index: type in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 47
+2016-05-06 21:49:04 - PHP Notice:  Undefined index: type in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 47
+2016-05-06 21:49:26 - PHP Notice:  Undefined index: type in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 50
+2016-05-06 21:50:19 - PHP Notice:  Undefined index: option_id in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 48
+2016-05-06 21:50:19 - PHP Notice:  Undefined index: type in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 51
+2016-05-06 21:50:53 - PHP Notice:  Undefined index: option in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 53
+2016-05-06 21:50:53 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 53
+2016-05-07 7:24:37 - PHP Notice:  Undefined index: product_id in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 252
+2016-05-07 7:24:37 - PHP Notice:  Undefined variable: images in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 268
+2016-05-07 7:25:08 - PHP Notice:  Undefined variable: images in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 268
+2016-05-07 8:01:36 - PHP Notice:  Undefined variable: options in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 94
+2016-05-07 8:02:09 - PHP Notice:  Undefined variable: options in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 94
+2016-05-07 8:02:26 - PHP Notice:  Undefined variable: text_option in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 96
+2016-05-07 8:03:37 - PHP Notice:  Undefined variable: text_select in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 101
+2016-05-07 8:42:14 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 102
+2016-05-07 8:42:14 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 102
+2016-05-07 8:43:05 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 102
+2016-05-07 8:43:05 - PHP Notice:  Undefined index: image in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 102
+2016-05-07 8:56:58 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 260
+2016-05-07 9:06:30 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 260
+2016-05-07 9:07:25 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 260
+2016-05-07 9:07:59 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 260
+2016-05-07 9:08:38 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 260
+2016-05-07 9:09:12 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 260
+2016-05-07 9:32:46 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:33:34 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:33:34 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:33:34 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:33:34 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:33:34 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:33:43 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:33:43 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:33:43 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:33:43 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:33:43 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:34:27 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:34:27 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:34:27 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:34:27 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:34:27 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:45:37 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:45:37 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:45:37 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:45:37 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:45:37 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 9:45:37 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:46:07 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:46:07 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:46:07 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:46:07 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:46:07 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 9:46:07 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:47:13 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:47:13 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:47:13 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:47:13 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:47:13 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 9:47:13 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:47:21 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:47:21 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:47:21 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:47:21 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:47:21 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 9:47:21 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:56:50 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:56:50 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:56:50 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:56:50 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:56:50 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 9:56:50 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:58:32 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:58:32 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:58:32 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:58:32 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:58:32 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 9:58:32 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 9:59:22 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 9:59:22 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 9:59:22 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 9:59:22 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 9:59:22 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 9:59:22 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 10:19:08 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 10:19:08 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 10:19:08 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 10:19:08 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 10:19:08 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 10:19:08 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 10:19:32 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 10:19:32 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 10:19:32 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 10:19:32 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 10:19:32 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 10:19:32 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 10:20:13 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 10:20:13 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 265
+2016-05-07 10:20:13 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 10:20:13 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 272
+2016-05-07 10:20:13 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 10:20:13 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 10:23:14 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 10:23:14 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 265
+2016-05-07 10:23:14 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 10:23:14 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 272
+2016-05-07 10:23:14 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 10:23:14 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 10:23:33 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 265
+2016-05-07 10:23:33 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 266
+2016-05-07 10:23:33 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 272
+2016-05-07 10:23:33 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 273
+2016-05-07 10:23:33 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 10:23:33 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 10:23:42 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 261
+2016-05-07 10:23:42 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 265
+2016-05-07 10:23:42 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 266
+2016-05-07 10:23:42 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 272
+2016-05-07 10:23:42 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 273
+2016-05-07 10:23:42 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 10:23:42 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 10:24:26 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 10:24:26 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 10:24:26 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 10:24:26 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 10:24:26 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 65
+2016-05-07 10:24:26 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 255
+2016-05-07 10:25:15 - PHP Notice:  Undefined index: name in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 263
+2016-05-07 10:25:15 - PHP Notice:  Undefined index: description in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 264
+2016-05-07 10:25:15 - PHP Notice:  Undefined index: minimum in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 270
+2016-05-07 10:25:15 - PHP Notice:  Undefined index: rating in E:\xampp\htdocs\sporttodoor\catalog\controller\product\category.php on line 271
+2016-05-07 10:25:16 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 67
+2016-05-07 10:25:16 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 257
+2016-05-07 10:31:01 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 67
+2016-05-07 10:31:01 - PHP Notice:  Undefined index: images in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 73
+2016-05-07 10:31:01 - PHP Warning:  Invalid argument supplied for foreach() in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 73
+2016-05-07 10:31:01 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 257
+2016-05-07 10:31:57 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 67
+2016-05-07 10:31:57 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 257
+2016-05-07 10:32:08 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 67
+2016-05-07 10:32:08 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 257
+2016-05-07 10:43:36 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 67
+2016-05-07 10:43:36 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 257
+2016-05-07 10:48:06 - PHP Notice:  Undefined index: popup in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 67
+2016-05-07 10:48:06 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 257
+2016-05-07 10:49:05 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 257
+2016-05-07 10:49:16 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 256
+2016-05-07 10:49:30 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 256
+2016-05-07 11:04:23 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 256
+2016-05-07 11:30:09 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 256
+2016-05-07 11:39:29 - PHP Notice:  Undefined variable: entry_qty in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\product\category.tpl on line 256
+2016-05-07 12:08:19 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 105
+2016-05-07 12:08:19 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 108
+2016-05-07 12:08:19 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 109
+2016-05-07 12:08:19 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 110
+2016-05-07 12:08:19 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 111
+2016-05-07 12:08:19 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 116
+2016-05-07 12:08:19 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 118
+2016-05-07 12:08:19 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 105
+2016-05-07 12:08:19 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 108
+2016-05-07 12:08:19 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 109
+2016-05-07 12:08:19 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 110
+2016-05-07 12:08:19 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 111
+2016-05-07 12:08:19 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 116
+2016-05-07 12:08:19 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in E:\xampp\htdocs\sporttodoor\system\library\image.php on line 118
+2016-05-07 15:10:02 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:10:09 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:10:16 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:10:21 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:10:24 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:42:40 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 15:42:40 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 15:42:40 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 15:42:40 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:42:45 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 15:42:45 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 15:42:45 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 15:42:45 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:42:50 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 15:42:50 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 15:42:50 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 15:42:50 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:43:45 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 15:43:45 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 15:43:45 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 15:43:45 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:43:48 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 15:43:48 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 15:43:48 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 15:43:48 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:44:00 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 15:44:00 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 15:44:00 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 15:44:00 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:44:07 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 15:44:07 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 15:44:07 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 15:44:07 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 15:44:12 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 15:44:12 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 15:44:12 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 15:44:12 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 16:01:12 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 16:01:12 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 16:01:12 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 16:01:12 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 16:01:18 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 16:01:18 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 16:01:18 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 16:01:18 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 16:01:29 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 16:01:29 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 16:01:29 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 16:01:29 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 16:01:32 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 16:01:32 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 16:01:32 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 16:01:32 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 16:01:34 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 16:01:34 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 16:01:34 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 16:01:34 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 16:01:37 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 16:01:37 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 16:01:37 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 16:01:37 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 16:03:36 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 16:03:36 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 16:03:36 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 16:03:36 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 16:03:56 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 16:03:56 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 16:03:56 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 16:03:56 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-07 16:04:06 - PHP Notice:  Undefined variable: facebook in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 4
+2016-05-07 16:04:06 - PHP Notice:  Undefined variable: instagram in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 5
+2016-05-07 16:04:06 - PHP Notice:  Undefined variable: twitter in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\footer.tpl on line 7
+2016-05-07 16:04:06 - PHP Notice:  Undefined variable: text_head in E:\xampp\htdocs\sporttodoor\catalog\view\theme\TasawkFrameWork\template\common\cart.tpl on line 4
+2016-05-09 0:03:30 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-09 0:03:30 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-09 0:03:30 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-09 0:03:30 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-09 0:03:30 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-09 0:03:30 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-09 0:03:30 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-09 0:03:30 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-09 0:03:30 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-09 0:03:30 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-09 0:03:30 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-09 0:03:30 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-09 0:03:30 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-09 0:03:30 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-09 0:03:51 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-09 0:03:51 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-09 0:03:51 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-09 0:03:51 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-09 0:03:51 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-09 0:03:51 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-09 0:03:51 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-09 0:03:51 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-09 0:03:51 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-09 0:03:51 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-09 0:03:51 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-09 0:03:51 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-09 0:03:51 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-09 0:03:51 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:13:08 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:13:08 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:13:08 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:13:08 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:13:08 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:13:08 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:13:08 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:13:08 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:13:08 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:13:08 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:13:08 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:13:08 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:13:08 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:13:08 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:13:14 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:13:14 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:13:14 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:13:14 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:13:14 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:13:14 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:13:14 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:13:14 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:13:14 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:13:14 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:13:14 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:13:14 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:13:14 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:13:14 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:40:18 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:40:18 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:40:18 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:40:18 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:40:18 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:40:18 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:40:18 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:40:18 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:40:18 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:40:18 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:40:18 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:40:18 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:40:18 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:40:18 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:40:31 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:40:31 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:40:31 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:40:31 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:40:31 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:40:31 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:40:31 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:40:31 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:40:31 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:40:31 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:40:31 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:40:31 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:40:31 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:40:31 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:40:33 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:40:33 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:40:33 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:40:33 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:40:33 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:40:33 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:40:33 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:40:33 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:40:33 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:40:33 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:40:33 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:40:33 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:40:33 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:40:33 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:40:35 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:40:35 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:40:35 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:40:35 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:40:35 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:40:35 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:40:35 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:40:35 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:40:35 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:40:35 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:40:35 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:40:35 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:40:35 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:40:35 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:43:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:43:22 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:43:22 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:43:22 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:43:22 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:43:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:43:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:43:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:43:22 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:43:22 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:43:22 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:43:22 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:43:22 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:43:22 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:43:37 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:43:37 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:43:37 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:43:37 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:43:37 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:43:37 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:43:37 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 2:43:37 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 2:43:37 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 2:43:37 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 2:43:37 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 2:43:37 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 2:43:37 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 2:43:37 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:02:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:02:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:02:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:02:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:02:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:02:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:02:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:02:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:02:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:02:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:02:55 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:02:55 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:02:55 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:02:55 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:03:52 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:03:52 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:03:52 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:03:52 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:03:52 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:03:52 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:03:52 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:03:52 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:03:52 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:03:52 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:03:52 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:03:52 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:03:52 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:03:52 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:03:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:03:54 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:03:54 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:03:54 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:03:54 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:03:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:03:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:03:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:03:54 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:03:54 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:03:54 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:03:54 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:03:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:03:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:07:20 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:07:20 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:07:20 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:07:20 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:07:20 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:07:20 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:07:20 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:07:20 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:07:20 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:07:20 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:07:20 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:07:20 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:07:20 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:07:20 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:07:23 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:07:23 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:07:23 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:07:23 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:07:23 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:07:23 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:07:23 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-14 3:07:23 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-14 3:07:23 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-14 3:07:23 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-14 3:07:23 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-14 3:07:23 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-14 3:07:23 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-14 3:07:23 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-15 14:09:43 - PHP Notice:  Undefined variable: home in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 1
+2016-05-15 14:10:15 - PHP Notice:  Undefined variable: home in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 1
+2016-05-15 14:10:44 - PHP Notice:  Undefined variable: home in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 1
+2016-05-15 14:11:20 - PHP Notice:  Undefined variable: home in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 1
+2016-05-15 14:13:53 - PHP Notice:  Undefined variable: category in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 25
+2016-05-15 14:13:53 - PHP Notice:  Undefined variable: category in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 25
+2016-05-15 14:13:53 - PHP Notice:  Undefined variable: category in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 25
+2016-05-15 14:13:53 - PHP Notice:  Undefined variable: category in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 26
+2016-05-15 14:13:53 - PHP Notice:  Undefined variable: categories in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 30
+2016-05-15 14:13:53 - PHP Warning:  Invalid argument supplied for foreach() in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 30
+2016-05-15 14:14:20 - PHP Notice:  Undefined variable: category in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 25
+2016-05-15 14:14:20 - PHP Notice:  Undefined variable: category in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 25
+2016-05-15 14:14:20 - PHP Notice:  Undefined variable: category in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 25
+2016-05-15 14:14:20 - PHP Notice:  Undefined variable: category in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/module/featured_categories.tpl on line 26
+2016-05-15 15:24:41 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-15 15:24:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-15 15:24:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-15 15:24:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-15 15:24:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-15 15:24:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-15 15:24:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-15 15:24:42 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-15 15:24:42 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-15 15:24:42 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-15 15:24:42 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-15 15:24:42 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-15 15:24:42 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-15 15:24:42 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-15 15:24:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-15 15:24:44 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-15 15:24:44 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-15 15:24:44 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-15 15:24:44 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-15 15:24:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-15 15:24:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-15 15:24:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-15 15:24:44 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-15 15:24:44 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-15 15:24:44 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-15 15:24:44 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-15 15:24:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-15 15:24:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-15 15:24:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-15 15:24:44 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-15 15:24:44 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-15 15:24:44 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-15 15:24:44 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-15 15:24:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-15 15:24:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-15 15:24:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-15 15:24:44 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-15 15:24:44 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-15 15:24:44 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-15 15:24:44 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-15 15:24:44 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-15 15:24:44 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-15 16:01:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-15 16:01:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-15 16:01:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-15 16:01:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-15 16:01:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-15 16:01:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-15 16:01:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-15 16:01:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-15 16:01:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-15 16:01:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-15 16:01:53 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-15 16:01:53 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-15 16:01:53 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-15 16:01:53 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-20 6:50:57 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-20 6:50:58 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-20 6:50:58 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-20 6:50:58 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-20 6:50:58 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-20 6:50:58 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-20 6:50:58 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-20 6:50:58 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-20 6:50:58 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-20 6:50:58 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-20 6:50:58 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-20 6:50:58 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-20 6:50:58 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-20 6:50:58 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-22 0:07:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-22 0:07:54 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-22 0:07:54 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-22 0:07:54 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-22 0:07:54 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-22 0:07:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-22 0:07:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-22 0:07:54 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 105
+2016-05-22 0:07:54 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 108
+2016-05-22 0:07:54 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 109
+2016-05-22 0:07:54 - PHP Warning:  imagecolorallocatealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 110
+2016-05-22 0:07:54 - PHP Warning:  imagecolortransparent() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 111
+2016-05-22 0:07:54 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 116
+2016-05-22 0:07:54 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/library/image.php on line 118
+2016-05-22 1:57:44 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 742
+2016-05-22 1:57:44 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 743
+2016-05-22 1:57:44 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 744
+2016-05-22 1:57:44 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 745
+2016-05-22 1:57:44 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 746
+2016-05-22 1:57:44 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 748
+2016-05-22 1:58:00 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 742
+2016-05-22 1:58:00 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 743
+2016-05-22 1:58:00 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 744
+2016-05-22 1:58:00 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 745
+2016-05-22 1:58:00 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 746
+2016-05-22 1:58:00 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 748
+2016-05-22 2:26:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 742
+2016-05-22 2:26:12 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 743
+2016-05-22 2:26:12 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 744
+2016-05-22 2:26:12 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 745
+2016-05-22 2:26:12 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 748
+2016-05-22 2:26:12 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 750
+2016-05-22 21:59:13 - PHP Warning:  ftp_connect() has been disabled for security reasons in /home/elfnon/public_html/demo/sporttodoor/admin/controller/extension/installer.php on line 292
+2016-05-25 11:50:26 - PHP Warning:  ftp_connect() has been disabled for security reasons in /home/elfnon/public_html/demo/sporttodoor/admin/controller/extension/installer.php on line 292
+2016-05-25 11:51:18 - PHP Warning:  ftp_connect() has been disabled for security reasons in /home/elfnon/public_html/demo/sporttodoor/admin/controller/extension/installer.php on line 292
+2016-05-29 12:54:19 - PHP Notice:  Undefined variable: image in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/product/category.tpl on line 82
+2016-05-29 12:54:19 - PHP Notice:  Undefined variable: image in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/product/category.tpl on line 83
+2016-05-29 12:59:26 - PHP Notice:  Undefined variable: image in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/product/category.tpl on line 82
+2016-05-29 12:59:26 - PHP Notice:  Undefined variable: image in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/product/category.tpl on line 83
+2016-05-29 13:00:32 - PHP Notice:  Undefined variable: image in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/product/category.tpl on line 82
+2016-05-29 13:00:32 - PHP Notice:  Undefined variable: image in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/product/category.tpl on line 83
+2016-05-29 13:01:43 - PHP Notice:  Undefined index: popup in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/product/category.tpl on line 83
+2016-05-30 9:06:47 - PHP Warning:  ftp_connect() has been disabled for security reasons in /home/elfnon/public_html/demo/sporttodoor/admin/controller/extension/installer.php on line 292
+2016-05-30 9:33:36 - PHP Notice:  Undefined variable: text_loading in /home/elfnon/public_html/demo/sporttodoor/catalog/view/theme/TasawkFrameWork/template/product/category.tpl on line 260
+2016-05-30 13:37:38 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:37:38 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:37:38 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 273
+2016-05-30 13:42:06 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:06 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:06 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 273
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:42:32 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 273
+2016-05-30 13:46:04 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-05-30 13:46:04 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-05-30 13:46:04 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-05-30 13:46:04 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-05-30 13:46:04 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-05-30 13:46:04 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-05-30 13:46:06 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-05-30 13:46:06 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-05-30 13:46:06 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-05-30 13:46:06 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-05-30 13:46:06 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-05-30 13:46:06 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-05-30 13:46:43 - PHP Notice:  Undefined index: image in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 273
+2016-05-30 13:47:48 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-05-30 13:47:48 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-05-30 13:47:48 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-05-30 13:47:48 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-05-30 13:47:48 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-05-30 13:47:48 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-05-30 13:47:53 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-05-30 13:47:53 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-05-30 13:47:53 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-05-30 13:47:53 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-05-30 13:47:53 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-05-30 13:47:53 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-05-30 13:48:02 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-05-30 13:48:02 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-05-30 13:48:02 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-05-30 13:48:02 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-05-30 13:48:02 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-05-30 13:48:02 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-05-30 13:48:20 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-05-30 13:48:20 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-05-30 13:48:20 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-05-30 13:48:20 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-05-30 13:48:20 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-05-30 13:48:20 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-05-30 13:48:46 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-05-30 13:48:46 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-05-30 13:48:46 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-05-30 13:48:46 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-05-30 13:48:46 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-05-30 13:48:46 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-05-30 13:48:58 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-05-30 13:48:58 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-05-30 13:48:58 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-05-30 13:48:58 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-05-30 13:48:58 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-05-30 13:48:58 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-05-30 13:49:18 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-05-30 13:49:18 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-05-30 13:49:18 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-05-30 13:49:18 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-05-30 13:49:18 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-05-30 13:49:18 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/elfnon/public_html/demo/sporttodoor/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-21 17:22:41 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-21 17:22:41 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-21 17:22:41 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-21 17:22:41 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-21 17:22:41 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-21 17:22:41 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-21 17:22:49 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-21 17:22:49 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-21 17:22:49 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-21 17:22:49 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-21 17:22:49 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-21 17:22:49 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-21 17:22:56 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-21 17:22:56 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-21 17:22:56 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-21 17:22:56 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-21 17:22:56 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-21 17:22:56 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-21 17:23:22 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-21 17:23:22 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-21 17:23:22 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-21 17:23:22 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-21 17:23:22 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-21 17:23:22 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-24 23:30:41 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-24 23:30:41 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-24 23:30:41 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-24 23:30:41 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-24 23:30:41 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-24 23:30:41 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-25 14:08:10 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 172
+2016-06-25 14:08:11 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 273
+2016-06-25 14:08:53 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 273
+2016-06-25 14:09:06 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 273
+2016-06-25 14:09:22 - PHP Notice:  Undefined index: image in /home/sporttodoor/public_html/shop/system/storage/modification/admin/view/template/catalog/option_form.tpl on line 273
+2016-06-25 14:10:55 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-25 14:10:55 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-25 14:10:55 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-25 14:10:55 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-25 14:10:55 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-25 14:10:55 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-25 14:17:05 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-25 14:17:05 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-25 14:17:05 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-25 14:17:05 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-25 14:17:05 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-25 14:17:05 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-26 9:13:03 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-26 9:13:04 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-26 9:13:04 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-26 9:13:04 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-26 9:13:04 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-26 9:13:04 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-27 12:00:10 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-27 12:00:10 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-27 12:00:10 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-27 12:00:10 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-27 12:00:10 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-27 12:00:10 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-06-27 12:00:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-06-27 12:00:12 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-06-27 12:00:12 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-06-27 12:00:12 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-06-27 12:00:12 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-06-27 12:00:12 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-07-12 14:43:33 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 691
+2016-07-12 14:48:21 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 695
+2016-07-12 15:51:37 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 695
+2016-07-12 15:52:03 - PHP Notice:  Undefined index: zone_id in /home/sporttodoor/public_html/shop/catalog/model/account/customer.php on line 18
+2016-07-12 15:52:05 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sporttodoor/public_html/shop/catalog/controller/startup/error.php:34) in /home/sporttodoor/public_html/shop/system/library/response.php on line 12
+2016-07-12 16:16:29 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-07-12 16:16:29 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-07-12 16:16:29 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-07-12 16:16:29 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-07-12 16:16:29 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-07-12 16:16:29 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779
+2016-07-12 18:52:08 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 695
+2016-07-12 18:52:32 - PHP Notice:  Undefined index: zone_id in /home/sporttodoor/public_html/shop/catalog/model/account/customer.php on line 18
+2016-07-12 18:52:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sporttodoor/public_html/shop/catalog/controller/startup/error.php:34) in /home/sporttodoor/public_html/shop/system/library/response.php on line 12
+2016-07-12 19:00:04 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 695
+2016-07-12 19:00:35 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 695
+2016-07-12 19:01:24 - PHP Notice:  Undefined index: zone_id in /home/sporttodoor/public_html/shop/catalog/model/account/customer.php on line 18
+2016-07-12 19:01:25 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sporttodoor/public_html/shop/catalog/controller/startup/error.php:34) in /home/sporttodoor/public_html/shop/system/library/response.php on line 12
+2016-07-12 19:02:42 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 695
+2016-07-12 19:39:11 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 695
+2016-07-12 19:39:55 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 695
+2016-07-12 19:40:14 - PHP Notice:  Undefined index: zone_id in /home/sporttodoor/public_html/shop/catalog/model/account/customer.php on line 18
+2016-07-12 19:40:15 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sporttodoor/public_html/shop/catalog/controller/startup/error.php:34) in /home/sporttodoor/public_html/shop/system/library/response.php on line 12
+2016-07-12 19:52:55 - PHP Notice:  Undefined index: zone_id in /home/sporttodoor/public_html/shop/catalog/model/account/customer.php on line 18
+2016-07-12 19:52:55 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sporttodoor/public_html/shop/catalog/controller/startup/error.php:34) in /home/sporttodoor/public_html/shop/system/library/response.php on line 12
+2016-07-12 19:54:04 - PHP Notice:  Undefined variable: zone_id in /home/sporttodoor/public_html/shop/catalog/view/theme/TasawkFrameWork/template/account/register.tpl on line 695
+2016-07-12 19:54:21 - PHP Notice:  Undefined index: zone_id in /home/sporttodoor/public_html/shop/catalog/model/account/customer.php on line 18
+2016-07-12 19:54:22 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sporttodoor/public_html/shop/catalog/controller/startup/error.php:34) in /home/sporttodoor/public_html/shop/system/library/response.php on line 12
+2016-07-19 12:13:48 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2016-07-19 12:13:48 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2016-07-19 12:15:18 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2016-07-19 12:15:18 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2016-07-19 12:17:03 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2016-07-19 12:17:03 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2016-07-19 12:17:10 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2016-07-19 12:17:10 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2016-07-19 12:17:36 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2016-07-19 12:17:36 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2016-07-19 12:18:47 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2016-07-19 12:18:47 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2016-07-19 12:24:56 - PHP Warning:  Unknown: write failed: Disk quota exceeded (122) in Unknown on line 0
+2016-07-19 12:24:56 - PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct () in Unknown on line 0
+2016-07-27 17:28:40 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 773
+2016-07-27 17:28:40 - PHP Warning:  imagesavealpha() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 774
+2016-07-27 17:28:40 - PHP Warning:  imagealphablending() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 775
+2016-07-27 17:28:40 - PHP Warning:  imagecopyresized() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 776
+2016-07-27 17:28:40 - PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 777
+2016-07-27 17:28:40 - PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/sporttodoor/public_html/shop/system/storage/modification/catalog/controller/product/product.php on line 779

@@ -1,0 +1,2977 @@
+2016-03-14 3:57:58 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+----------------------------------------------------------------
+2016-03-14 3:58:48 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+----------------------------------------------------------------
+2016-03-14 4:00:13 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+2016-03-14 4:00:41 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+----------------------------------------------------------------
+2016-03-14 4:01:44 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 49
+CODE: 'title'      => $this->language->get('text_title'),
+NOT FOUND!
+----------------------------------------------------------------
+2016-03-14 4:27:45 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+2016-03-14 4:28:03 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: $data['config_address'] = $this->config->get('config_address');
+    }
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="text-danger"><?php echo $error_address; ?></div>
+                  <?php } ?>
+                </div>
+              </div>
+NOT FOUND!
+----------------------------------------------------------------
+2016-03-14 4:29:57 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: $data['config_address'] = $this->config->get('config_address');
+    }
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="text-danger"><?php echo $error_address; ?></div>
+                  <?php } ?>
+                </div>
+              </div>
+NOT FOUND!
+----------------------------------------------------------------
+2016-03-14 4:34:37 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: $data['config_address'] = $this->config->get('config_address'); }
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="text-danger"><?php echo $error_address; ?></div>
+                  <?php } ?>
+                </div>
+              </div>
+NOT FOUND!
+----------------------------------------------------------------
+2016-03-14 4:36:20 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: $data['config_address'] = $this->config->get('config_address'); }
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="text-danger"><?php echo $error_address; ?></div>
+                  <?php } ?>
+                </div>
+              </div>
+NOT FOUND!
+----------------------------------------------------------------
+2016-03-14 4:40:31 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+2016-03-14 4:40:52 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+                <label class="col-sm-2 control-label" for="input-geocode"><span data-toggle="tooltip" data-container="#tab-general" title="<?php echo $help_geocode; ?>"><?php echo $entry_geocode; ?></span></label>
+NOT FOUND!
+----------------------------------------------------------------
+2016-03-14 4:43:35 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 178
+----------------------------------------------------------------
+2016-03-14 4:44:56 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+2016-03-14 4:44:56 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+2016-03-14 4:45:26 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 65
+----------------------------------------------------------------
+2016-03-14 4:47:50 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+----------------------------------------------------------------
+2016-03-14 5:05:47 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+NOT FOUND!
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+NOT FOUND!
+----------------------------------------------------------------
+2016-03-14 5:06:52 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-14 5:16:53 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-14 5:18:26 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-14 19:40:44 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-14 21:59:41 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 57
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-14 22:01:09 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 72
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 57
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 467
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-16 23:34:04 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 522
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+CODE: <li><a href="#tab-google" data-toggle="tab"><?php echo $tab_google; ?></a></li>
+NOT FOUND!
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-16 23:34:39 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 522
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+CODE: <li><a href="#tab-google" data-toggle="tab"><?php echo $tab_google; ?></a></li>
+NOT FOUND!
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-16 23:37:20 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 522
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <div class="form-group">
+LINE: 129
+CODE: <li><a href="#tab-google" data-toggle="tab"><?php echo $tab_google; ?></a></li>
+NOT FOUND!
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 0:00:58 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 522
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: </div><div class="tab-pane" id="tab-server">
+NOT FOUND!
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 0:08:22 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 522
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1195
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 0:45:16 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 1:07:10 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 436
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 94
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 1:47:48 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 436
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 94
+FILE: admin/model/catalog/information.php
+CODE: $information_id = $this->db->getLastId();
+LINE: 11
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 1:56:29 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 436
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 94
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 2:01:11 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 436
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 94
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 2:01:44 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 436
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 2:13:07 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-03-17 2:17:06 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-05-06 19:55:37 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: CherryAnt Image Colored Product
+FILE: admin/controller/catalog/option.php
+CODE: $this->load->model('catalog/option');
+LINE: 23
+LINE: 59
+CODE: if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
+LINE: 29
+LINE: 69
+CODE: $data['text_radio'] = $this->language->get('text_radio');
+LINE: 286
+CODE: $data['entry_image'] = $this->language->get('entry_image');
+LINE: 303
+CODE: if (isset($this->error['option_value'])) {
+LINE: 330
+CODE: if (isset($this->request->post['option_value'])) {
+LINE: 404
+CODE: $data['option_values'] = array();
+LINE: 432
+CODE: $data['placeholder'] = $this->model_tool_image->resize('no_image.png', 100, 100);
+LINE: 469
+CODE: if (($this->request->post['type'] == 'select' || $this->request->post['type'] == 'radio' || $this->request->post['type'] == 'checkbox') && !isset($this->request->post['option_value'])) {
+LINE: 489
+CODE: if ($option['type'] == 'select' || $option['type'] == 'radio' || $option['type'] == 'checkbox' || $option['type'] == 'image') {
+LINE: 561
+LINE: 589
+FILE: admin/controller/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 1122
+FILE: admin/model/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 38
+LINE: 169
+FILE: admin/view/template/catalog/option_form.tpl
+CODE: <?php if ($type == 'checkbox') { ?>
+LINE: 62
+CODE: </form>
+LINE: 221
+CODE: $('select[name=\'type\']').on('change', function() {
+LINE: 226
+CODE: //--></script></div>
+LINE: 308
+CODE: <?php echo $footer; ?>
+LINE: 324
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <?php if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') { ?>
+LINE: 547
+CODE: if (item['type'] == 'select' || item['type'] == 'radio' || item['type'] == 'checkbox' || item['type'] == 'image') {
+LINE: 1197
+FILE: catalog/controller/product/product.php
+CODE: 'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+LINE: 352
+CODE: public function getRecurringDescription() {
+LINE: 757
+FILE: catalog/model/catalog/product.php
+CODE: public function getProductDiscounts($product_id) {
+LINE: 374
+FILE: catalog/view/theme/TasawkFrameWork/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 204
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 679
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 206
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 666
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-05-06 20:06:15 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: CherryAnt Image Colored Product
+FILE: admin/controller/catalog/option.php
+CODE: $this->load->model('catalog/option');
+LINE: 23
+LINE: 59
+CODE: if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
+LINE: 29
+LINE: 69
+CODE: $data['text_radio'] = $this->language->get('text_radio');
+LINE: 286
+CODE: $data['entry_image'] = $this->language->get('entry_image');
+LINE: 303
+CODE: if (isset($this->error['option_value'])) {
+LINE: 330
+CODE: if (isset($this->request->post['option_value'])) {
+LINE: 404
+CODE: $data['option_values'] = array();
+LINE: 432
+CODE: $data['placeholder'] = $this->model_tool_image->resize('no_image.png', 100, 100);
+LINE: 469
+CODE: if (($this->request->post['type'] == 'select' || $this->request->post['type'] == 'radio' || $this->request->post['type'] == 'checkbox') && !isset($this->request->post['option_value'])) {
+LINE: 489
+CODE: if ($option['type'] == 'select' || $option['type'] == 'radio' || $option['type'] == 'checkbox' || $option['type'] == 'image') {
+LINE: 561
+LINE: 589
+FILE: admin/controller/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 1122
+FILE: admin/language/en-gb/catalog/option.php
+CODE: $_['text_radio']          = 'Radio';
+LINE: 14
+CODE: $_['entry_image']         = 'Image';
+LINE: 37
+FILE: admin/model/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 38
+LINE: 169
+FILE: admin/view/template/catalog/option_form.tpl
+CODE: <?php if ($type == 'checkbox') { ?>
+LINE: 62
+CODE: </form>
+LINE: 221
+CODE: $('select[name=\'type\']').on('change', function() {
+LINE: 226
+CODE: //--></script></div>
+LINE: 308
+CODE: <?php echo $footer; ?>
+LINE: 324
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <?php if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') { ?>
+LINE: 547
+CODE: if (item['type'] == 'select' || item['type'] == 'radio' || item['type'] == 'checkbox' || item['type'] == 'image') {
+LINE: 1197
+FILE: catalog/controller/product/product.php
+CODE: 'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+LINE: 352
+CODE: public function getRecurringDescription() {
+LINE: 757
+FILE: catalog/model/catalog/product.php
+CODE: public function getProductDiscounts($product_id) {
+LINE: 374
+FILE: catalog/view/theme/TasawkFrameWork/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 204
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 679
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 206
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 666
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-05-07 16:04:17 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: CherryAnt Image Colored Product
+FILE: admin/controller/catalog/option.php
+CODE: $this->load->model('catalog/option');
+LINE: 23
+LINE: 59
+CODE: if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
+LINE: 29
+LINE: 69
+CODE: $data['text_radio'] = $this->language->get('text_radio');
+LINE: 286
+CODE: $data['entry_image'] = $this->language->get('entry_image');
+LINE: 303
+CODE: if (isset($this->error['option_value'])) {
+LINE: 330
+CODE: if (isset($this->request->post['option_value'])) {
+LINE: 404
+CODE: $data['option_values'] = array();
+LINE: 432
+CODE: $data['placeholder'] = $this->model_tool_image->resize('no_image.png', 100, 100);
+LINE: 469
+CODE: if (($this->request->post['type'] == 'select' || $this->request->post['type'] == 'radio' || $this->request->post['type'] == 'checkbox') && !isset($this->request->post['option_value'])) {
+LINE: 489
+CODE: if ($option['type'] == 'select' || $option['type'] == 'radio' || $option['type'] == 'checkbox' || $option['type'] == 'image') {
+LINE: 561
+LINE: 589
+FILE: admin/controller/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 1122
+FILE: admin/language/en-gb/catalog/option.php
+CODE: $_['text_radio']          = 'Radio';
+LINE: 14
+CODE: $_['entry_image']         = 'Image';
+LINE: 37
+FILE: admin/model/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 38
+LINE: 169
+FILE: admin/view/template/catalog/option_form.tpl
+CODE: <?php if ($type == 'checkbox') { ?>
+LINE: 62
+CODE: </form>
+LINE: 221
+CODE: $('select[name=\'type\']').on('change', function() {
+LINE: 226
+CODE: //--></script></div>
+LINE: 308
+CODE: <?php echo $footer; ?>
+LINE: 324
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <?php if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') { ?>
+LINE: 547
+CODE: if (item['type'] == 'select' || item['type'] == 'radio' || item['type'] == 'checkbox' || item['type'] == 'image') {
+LINE: 1197
+FILE: catalog/controller/product/product.php
+CODE: 'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+LINE: 352
+CODE: public function getRecurringDescription() {
+LINE: 757
+FILE: catalog/model/catalog/product.php
+CODE: public function getProductDiscounts($product_id) {
+LINE: 374
+FILE: catalog/view/theme/TasawkFrameWork/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 204
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 676
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 206
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 666
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-05-14 2:09:17 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: CherryAnt Image Colored Product
+FILE: admin/controller/catalog/option.php
+CODE: $this->load->model('catalog/option');
+LINE: 23
+LINE: 59
+CODE: if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
+LINE: 29
+LINE: 69
+CODE: $data['text_radio'] = $this->language->get('text_radio');
+LINE: 286
+CODE: $data['entry_image'] = $this->language->get('entry_image');
+LINE: 303
+CODE: if (isset($this->error['option_value'])) {
+LINE: 330
+CODE: if (isset($this->request->post['option_value'])) {
+LINE: 404
+CODE: $data['option_values'] = array();
+LINE: 432
+CODE: $data['placeholder'] = $this->model_tool_image->resize('no_image.png', 100, 100);
+LINE: 469
+CODE: if (($this->request->post['type'] == 'select' || $this->request->post['type'] == 'radio' || $this->request->post['type'] == 'checkbox') && !isset($this->request->post['option_value'])) {
+LINE: 489
+CODE: if ($option['type'] == 'select' || $option['type'] == 'radio' || $option['type'] == 'checkbox' || $option['type'] == 'image') {
+LINE: 561
+LINE: 589
+FILE: admin/controller/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 1122
+FILE: admin/language/en-gb/catalog/option.php
+CODE: $_['text_radio']          = 'Radio';
+LINE: 14
+CODE: $_['entry_image']         = 'Image';
+LINE: 37
+FILE: admin/model/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 38
+LINE: 169
+FILE: admin/view/template/catalog/option_form.tpl
+CODE: <?php if ($type == 'checkbox') { ?>
+LINE: 62
+CODE: </form>
+LINE: 221
+CODE: $('select[name=\'type\']').on('change', function() {
+LINE: 226
+CODE: //--></script></div>
+LINE: 308
+CODE: <?php echo $footer; ?>
+LINE: 324
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <?php if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') { ?>
+LINE: 547
+CODE: if (item['type'] == 'select' || item['type'] == 'radio' || item['type'] == 'checkbox' || item['type'] == 'image') {
+LINE: 1197
+FILE: catalog/controller/product/product.php
+CODE: 'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+LINE: 352
+CODE: public function getRecurringDescription() {
+LINE: 757
+FILE: catalog/model/catalog/product.php
+CODE: public function getProductDiscounts($product_id) {
+LINE: 374
+FILE: catalog/view/theme/TasawkFrameWork/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 204
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 676
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 206
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 666
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-05-14 2:10:44 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: CherryAnt Image Colored Product
+FILE: admin/controller/catalog/option.php
+CODE: $this->load->model('catalog/option');
+LINE: 23
+LINE: 59
+CODE: if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
+LINE: 29
+LINE: 69
+CODE: $data['text_radio'] = $this->language->get('text_radio');
+LINE: 286
+CODE: $data['entry_image'] = $this->language->get('entry_image');
+LINE: 303
+CODE: if (isset($this->error['option_value'])) {
+LINE: 330
+CODE: if (isset($this->request->post['option_value'])) {
+LINE: 404
+CODE: $data['option_values'] = array();
+LINE: 432
+CODE: $data['placeholder'] = $this->model_tool_image->resize('no_image.png', 100, 100);
+LINE: 469
+CODE: if (($this->request->post['type'] == 'select' || $this->request->post['type'] == 'radio' || $this->request->post['type'] == 'checkbox') && !isset($this->request->post['option_value'])) {
+LINE: 489
+CODE: if ($option['type'] == 'select' || $option['type'] == 'radio' || $option['type'] == 'checkbox' || $option['type'] == 'image') {
+LINE: 561
+LINE: 589
+FILE: admin/controller/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 1122
+FILE: admin/language/en-gb/catalog/option.php
+CODE: $_['text_radio']          = 'Radio';
+LINE: 14
+CODE: $_['entry_image']         = 'Image';
+LINE: 37
+FILE: admin/model/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 38
+LINE: 169
+FILE: admin/view/template/catalog/option_form.tpl
+CODE: <?php if ($type == 'checkbox') { ?>
+LINE: 62
+CODE: </form>
+LINE: 221
+CODE: $('select[name=\'type\']').on('change', function() {
+LINE: 226
+CODE: //--></script></div>
+LINE: 308
+CODE: <?php echo $footer; ?>
+LINE: 324
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <?php if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') { ?>
+LINE: 547
+CODE: if (item['type'] == 'select' || item['type'] == 'radio' || item['type'] == 'checkbox' || item['type'] == 'image') {
+LINE: 1197
+FILE: catalog/controller/product/product.php
+CODE: 'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+LINE: 352
+CODE: public function getRecurringDescription() {
+LINE: 757
+FILE: catalog/model/catalog/product.php
+CODE: public function getProductDiscounts($product_id) {
+LINE: 374
+FILE: catalog/view/theme/TasawkFrameWork/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 204
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 676
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 206
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 666
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-05-14 3:03:36 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: CherryAnt Image Colored Product
+FILE: admin/controller/catalog/option.php
+CODE: $this->load->model('catalog/option');
+LINE: 23
+LINE: 59
+CODE: if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
+LINE: 29
+LINE: 69
+CODE: $data['text_radio'] = $this->language->get('text_radio');
+LINE: 286
+CODE: $data['entry_image'] = $this->language->get('entry_image');
+LINE: 303
+CODE: if (isset($this->error['option_value'])) {
+LINE: 330
+CODE: if (isset($this->request->post['option_value'])) {
+LINE: 404
+CODE: $data['option_values'] = array();
+LINE: 432
+CODE: $data['placeholder'] = $this->model_tool_image->resize('no_image.png', 100, 100);
+LINE: 469
+CODE: if (($this->request->post['type'] == 'select' || $this->request->post['type'] == 'radio' || $this->request->post['type'] == 'checkbox') && !isset($this->request->post['option_value'])) {
+LINE: 489
+CODE: if ($option['type'] == 'select' || $option['type'] == 'radio' || $option['type'] == 'checkbox' || $option['type'] == 'image') {
+LINE: 561
+LINE: 589
+FILE: admin/controller/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 1122
+FILE: admin/language/en-gb/catalog/option.php
+CODE: $_['text_radio']          = 'Radio';
+LINE: 14
+CODE: $_['entry_image']         = 'Image';
+LINE: 37
+FILE: admin/model/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 38
+LINE: 169
+FILE: admin/view/template/catalog/option_form.tpl
+CODE: <?php if ($type == 'checkbox') { ?>
+LINE: 62
+CODE: </form>
+LINE: 221
+CODE: $('select[name=\'type\']').on('change', function() {
+LINE: 226
+CODE: //--></script></div>
+LINE: 308
+CODE: <?php echo $footer; ?>
+LINE: 324
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <?php if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') { ?>
+LINE: 547
+CODE: if (item['type'] == 'select' || item['type'] == 'radio' || item['type'] == 'checkbox' || item['type'] == 'image') {
+LINE: 1197
+FILE: catalog/controller/product/product.php
+CODE: 'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+LINE: 352
+CODE: public function getRecurringDescription() {
+LINE: 757
+FILE: catalog/model/catalog/product.php
+CODE: public function getProductDiscounts($product_id) {
+LINE: 374
+FILE: catalog/view/theme/TasawkFrameWork/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 204
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 676
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 206
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 666
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-05-14 3:07:06 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: CherryAnt Image Colored Product
+FILE: admin/controller/catalog/option.php
+CODE: $this->load->model('catalog/option');
+LINE: 23
+LINE: 59
+CODE: if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
+LINE: 29
+LINE: 69
+CODE: $data['text_radio'] = $this->language->get('text_radio');
+LINE: 286
+CODE: $data['entry_image'] = $this->language->get('entry_image');
+LINE: 303
+CODE: if (isset($this->error['option_value'])) {
+LINE: 330
+CODE: if (isset($this->request->post['option_value'])) {
+LINE: 404
+CODE: $data['option_values'] = array();
+LINE: 432
+CODE: $data['placeholder'] = $this->model_tool_image->resize('no_image.png', 100, 100);
+LINE: 469
+CODE: if (($this->request->post['type'] == 'select' || $this->request->post['type'] == 'radio' || $this->request->post['type'] == 'checkbox') && !isset($this->request->post['option_value'])) {
+LINE: 489
+CODE: if ($option['type'] == 'select' || $option['type'] == 'radio' || $option['type'] == 'checkbox' || $option['type'] == 'image') {
+LINE: 561
+LINE: 589
+FILE: admin/controller/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 1122
+FILE: admin/language/en-gb/catalog/option.php
+CODE: $_['text_radio']          = 'Radio';
+LINE: 14
+CODE: $_['entry_image']         = 'Image';
+LINE: 37
+FILE: admin/model/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 38
+LINE: 169
+FILE: admin/view/template/catalog/option_form.tpl
+CODE: <?php if ($type == 'checkbox') { ?>
+LINE: 62
+CODE: </form>
+LINE: 221
+CODE: $('select[name=\'type\']').on('change', function() {
+LINE: 226
+CODE: //--></script></div>
+LINE: 308
+CODE: <?php echo $footer; ?>
+LINE: 324
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <?php if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') { ?>
+LINE: 547
+CODE: if (item['type'] == 'select' || item['type'] == 'radio' || item['type'] == 'checkbox' || item['type'] == 'image') {
+LINE: 1197
+FILE: catalog/controller/product/product.php
+CODE: 'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+LINE: 352
+CODE: public function getRecurringDescription() {
+LINE: 757
+FILE: catalog/model/catalog/product.php
+CODE: public function getProductDiscounts($product_id) {
+LINE: 374
+FILE: catalog/view/theme/TasawkFrameWork/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 204
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 676
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 206
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 666
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+FILE: catalog/controller/checkout/cart.php
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 400
+LINE: 500
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-05-30 9:43:29 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: BuyNow by iSenseLabs
+FILE: catalog/view/theme/TasawkFrameWork/template/common/footer.tpl
+CODE: </body>
+LINE: 18
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body>
+LINE: 55
+FILE: catalog/controller/checkout/cart.php
+CODE: $this->cart->add($this->request->post['product_id'], $quantity, $option, $recurring_id);
+LINE: 375
+FILE: catalog/controller/product/product.php
+CODE: if ($product_info) {
+LINE: 191
+FILE: catalog/view/theme/TasawkFrameWork/template/product/product.tpl
+CODE: if (json['success']) {
+LINE: 423
+LINE: 473
+LINE: 561
+LINE: 612
+CODE: <button type="button" id="button-cart" data-loading-text="<?php echo $text_loading; ?>" class="btn btn-primary btn-lg btn-block"><?php echo $button_cart; ?></button>
+LINE: 308
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if (json['success']) {
+LINE: 428
+LINE: 478
+LINE: 551
+LINE: 602
+CODE: <button type="button" id="button-cart" data-loading-text="<?php echo $text_loading; ?>" class="btn btn-primary btn-lg btn-block"><?php echo $button_cart; ?></button>
+LINE: 310
+----------------------------------------------------------------
+MOD: CherryAnt Image Colored Product
+FILE: admin/controller/catalog/option.php
+CODE: $this->load->model('catalog/option');
+LINE: 23
+LINE: 59
+CODE: if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
+LINE: 29
+LINE: 69
+CODE: $data['text_radio'] = $this->language->get('text_radio');
+LINE: 286
+CODE: $data['entry_image'] = $this->language->get('entry_image');
+LINE: 303
+CODE: if (isset($this->error['option_value'])) {
+LINE: 330
+CODE: if (isset($this->request->post['option_value'])) {
+LINE: 404
+CODE: $data['option_values'] = array();
+LINE: 432
+CODE: $data['placeholder'] = $this->model_tool_image->resize('no_image.png', 100, 100);
+LINE: 469
+CODE: if (($this->request->post['type'] == 'select' || $this->request->post['type'] == 'radio' || $this->request->post['type'] == 'checkbox') && !isset($this->request->post['option_value'])) {
+LINE: 489
+CODE: if ($option['type'] == 'select' || $option['type'] == 'radio' || $option['type'] == 'checkbox' || $option['type'] == 'image') {
+LINE: 561
+LINE: 589
+FILE: admin/controller/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 1122
+FILE: admin/language/en-gb/catalog/option.php
+CODE: $_['text_radio']          = 'Radio';
+LINE: 14
+CODE: $_['entry_image']         = 'Image';
+LINE: 37
+FILE: admin/model/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 38
+LINE: 169
+FILE: admin/view/template/catalog/option_form.tpl
+CODE: <?php if ($type == 'checkbox') { ?>
+LINE: 62
+CODE: </form>
+LINE: 221
+CODE: $('select[name=\'type\']').on('change', function() {
+LINE: 226
+CODE: //--></script></div>
+LINE: 308
+CODE: <?php echo $footer; ?>
+LINE: 324
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <?php if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') { ?>
+LINE: 547
+CODE: if (item['type'] == 'select' || item['type'] == 'radio' || item['type'] == 'checkbox' || item['type'] == 'image') {
+LINE: 1197
+CODE: 'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+LINE: 383
+CODE: public function getRecurringDescription() {
+LINE: 788
+FILE: catalog/model/catalog/product.php
+CODE: public function getProductDiscounts($product_id) {
+LINE: 374
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 204
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 702
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 206
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 692
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 432
+LINE: 532
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------
+2016-05-30 12:55:56 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 34
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 41
+LINE: 92
+LINE: 104
+LINE: 142
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 35
+LINE: 41
+LINE: 47
+FILE: system/library/template/basic.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 18
+----------------------------------------------------------------
+MOD: BuyNow by iSenseLabs
+FILE: catalog/view/theme/TasawkFrameWork/template/common/footer.tpl
+CODE: </body>
+LINE: 18
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body>
+LINE: 55
+FILE: catalog/controller/checkout/cart.php
+CODE: $this->cart->add($this->request->post['product_id'], $quantity, $option, $recurring_id);
+LINE: 375
+FILE: catalog/controller/product/product.php
+CODE: if ($product_info) {
+LINE: 191
+FILE: catalog/view/theme/TasawkFrameWork/template/product/product.tpl
+CODE: if (json['success']) {
+LINE: 423
+LINE: 473
+LINE: 561
+LINE: 612
+CODE: <button type="button" id="button-cart" data-loading-text="<?php echo $text_loading; ?>" class="btn btn-primary btn-lg btn-block"><?php echo $button_cart; ?></button>
+LINE: 308
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: if (json['success']) {
+LINE: 428
+LINE: 478
+LINE: 551
+LINE: 602
+CODE: <button type="button" id="button-cart" data-loading-text="<?php echo $text_loading; ?>" class="btn btn-primary btn-lg btn-block"><?php echo $button_cart; ?></button>
+LINE: 310
+----------------------------------------------------------------
+MOD: CherryAnt Image Colored Product
+FILE: admin/controller/catalog/option.php
+CODE: $this->load->model('catalog/option');
+LINE: 23
+LINE: 59
+CODE: if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
+LINE: 29
+LINE: 69
+CODE: $data['text_radio'] = $this->language->get('text_radio');
+LINE: 286
+CODE: $data['entry_image'] = $this->language->get('entry_image');
+LINE: 303
+CODE: if (isset($this->error['option_value'])) {
+LINE: 330
+CODE: if (isset($this->request->post['option_value'])) {
+LINE: 404
+CODE: $data['option_values'] = array();
+LINE: 432
+CODE: $data['placeholder'] = $this->model_tool_image->resize('no_image.png', 100, 100);
+LINE: 469
+CODE: if (($this->request->post['type'] == 'select' || $this->request->post['type'] == 'radio' || $this->request->post['type'] == 'checkbox') && !isset($this->request->post['option_value'])) {
+LINE: 489
+CODE: if ($option['type'] == 'select' || $option['type'] == 'radio' || $option['type'] == 'checkbox' || $option['type'] == 'image') {
+LINE: 561
+LINE: 589
+FILE: admin/controller/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 1122
+FILE: admin/language/en-gb/catalog/option.php
+CODE: $_['text_radio']          = 'Radio';
+LINE: 14
+CODE: $_['entry_image']         = 'Image';
+LINE: 37
+FILE: admin/model/catalog/product.php
+CODE: if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') {
+LINE: 38
+LINE: 169
+FILE: admin/view/template/catalog/option_form.tpl
+CODE: <?php if ($type == 'checkbox') { ?>
+LINE: 62
+CODE: </form>
+LINE: 221
+CODE: $('select[name=\'type\']').on('change', function() {
+LINE: 226
+CODE: //--></script></div>
+LINE: 308
+CODE: <?php echo $footer; ?>
+LINE: 324
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <?php if ($product_option['type'] == 'select' || $product_option['type'] == 'radio' || $product_option['type'] == 'checkbox' || $product_option['type'] == 'image') { ?>
+LINE: 547
+CODE: if (item['type'] == 'select' || item['type'] == 'radio' || item['type'] == 'checkbox' || item['type'] == 'image') {
+LINE: 1197
+CODE: 'image'                   => $this->model_tool_image->resize($option_value['image'], 50, 50),
+LINE: 383
+CODE: public function getRecurringDescription() {
+LINE: 788
+FILE: catalog/model/catalog/product.php
+CODE: public function getProductDiscounts($product_id) {
+LINE: 374
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 204
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 702
+CODE: <?php if ($option['type'] == 'radio') { ?>
+LINE: 206
+CODE: <li><a class="thumbnail" href="<?php echo $popup; ?>" title="<?php echo $heading_title; ?>"><img src="<?php echo $thumb; ?>" title="<?php echo $heading_title; ?>" alt="<?php echo $heading_title; ?>" /></a></li>
+LINE: 26
+CODE: <?php echo $footer; ?>
+LINE: 692
+----------------------------------------------------------------
+MOD: Tasawk Core Modifications
+FILE: catalog/controller/common/footer.php
+CODE: $data['powered'] = sprintf($this->language->get('text_powered'), $this->config->get('config_name'), date('Y', time()));
+LINE: 73
+FILE: catalog/controller/common/cart.php
+CODE: $data['text_loading'] = $this->language->get('text_loading');
+LINE: 58
+CODE: $json['total'] = sprintf($this->language->get('text_items'), $this->cart->countProducts() + (isset($this->session->data['vouchers']) ? count($this->session->data['vouchers']) : 0), $this->currency->format($total, $this->session->data['currency']));
+LINE: 432
+LINE: 532
+FILE: catalog/language/en-gb/common/cart.php
+CODE: $_['text_recurring'] = 'Payment Profile';
+LINE: 9
+FILE: catalog/language/ar/common/cart.php
+CODE: $_['text_recurring']  = 'ملف الدفع';
+LINE: 12
+FILE: admin/controller/setting/setting.php
+CODE: if (isset($this->request->post['config_geocode'])) {
+LINE: 516
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+LINE: 224
+FILE: admin/controller/catalog/information.php
+CODE: if (isset($this->request->post['information_layout'])) {
+LINE: 438
+CODE: $data['tab_server'] = $this->language->get('tab_server');
+NOT FOUND!
+FILE: admin/view/template/setting/setting.tpl
+CODE: <li><a href="#tab-server" data-toggle="tab"><?php echo $tab_server; ?></a></li>
+LINE: 41
+CODE: <div class="tab-pane" id="tab-server">
+LINE: 1240
+CODE: <div class="form-group">
+LINE: 130
+FILE: admin/view/template/catalog/information_form.tpl
+CODE: <div class="tab-pane" id="tab-data">
+LINE: 93
+FILE: admin/model/catalog/information.php
+CODE: foreach ($data['information_description'] as $language_id => $value) {
+LINE: 13
+LINE: 49
+FILE: admin/language/ar/setting/setting.php
+CODE: $_['error_encryption']                 = 'يجب أن يكون بين 32 و 1024 رمزاً!';
+LINE: 218
+FILE: admin/language/en-gb/setting/setting.php
+CODE: $_['error_encryption']                = 'Encryption Key must be between 32 and 1024 characters!';
+LINE: 215
+----------------------------------------------------------------

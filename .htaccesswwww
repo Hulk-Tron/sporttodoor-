@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Sport to Door"
+AuthUserFile "/home/sporttodoor/.htpasswds/public_html/passwd"
+require valid-user
